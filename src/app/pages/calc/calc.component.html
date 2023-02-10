@@ -1,0 +1,53 @@
+
+<div class="container pt-5 d-flex">
+
+  <section class="col-lg-8 col-12">
+    <div class="example-container">
+      <h2>Examenes LSJ</h2>
+      <div
+        cdkDropList
+        #todoList="cdkDropList"
+        [cdkDropListData]="todo"
+        [cdkDropListConnectedTo]="[doneList]"
+        class="example-list scroll"
+        (cdkDropListDropped)="drop($event)">
+        <div class="example-box" *ngFor="let item of todo" cdkDrag>
+          <div class="">
+            <h3 class="mb-1">{{item.PRUEBA}}</h3>
+            <h5 class="mb-0">Codigo: {{item.CODIGO}} Precio: {{item.PRECIO}}</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="example-container">
+      <h2>Enviar</h2>
+    
+      <div
+        cdkDropList
+        #doneList="cdkDropList"
+        [cdkDropListData]="done"
+        [cdkDropListConnectedTo]="[todoList]"
+        class="example-list scroll"
+        (cdkDropListDropped)="drop($event)">
+        <div class="example-box" *ngFor="let item of done" cdkDrag>
+          <div class="">
+            <h3 class="mb-1">{{item.PRUEBA}}</h3>
+            <h5 class="mb-0">Codigo: {{item.CODIGO}} Precio: {{item.PRECIO}}</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="col-12 col-lg-2">
+    <div >
+      <h2>Total: {{total}}</h2>
+    </div>
+  </section>
+
+
+</div>
+
+
