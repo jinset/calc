@@ -1,5 +1,25 @@
 [
   {
+    "CODIGO": "T001",
+    "PRUEBA": "CHEQUEO ADULTO",
+    "PRECIO": 23000
+  },
+  {
+    "CODIGO": "T009",
+    "PRUEBA": "TIROIDES",
+    "PRECIO": 20000
+  },
+  {
+    "CODIGO": "T011",
+    "PRUEBA": "HEPÁTICO",
+    "PRECIO": 22000
+  },
+  {
+    "CODIGO": "T013",
+    "PRUEBA": "HORMONAL FEMENINO",
+    "PRECIO": 35000
+  },
+  {
     "CODIGO": 145,
     "PRUEBA": "AC ANTI MICROSOMAS/ PEROXIDASA",
     "PRECIO": 21000
