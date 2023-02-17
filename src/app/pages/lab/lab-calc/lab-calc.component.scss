@@ -1,3 +1,17 @@
+@use '../../../../styles.scss' as v;
+
 #download {
     display: none;
+}
+
+.btn-primary {
+  background-color: v.$purple ;
+  color: v.$papaya;
+  border-color: v.$purple;
+}
+
+.btn-primary:active, .btn-primary:hover{
+  background-color: v.$papaya ;
+  color: v.$purple;
+  border-color: v.$papaya;
 }

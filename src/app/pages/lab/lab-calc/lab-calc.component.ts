@@ -14,6 +14,7 @@ export class LabCalcComponent {
   @ViewChild('downloadLink') downloadLink!: ElementRef;
   labList:ILab[] = [];
   total: number = 0;
+  vp!:any;
   constructor(private labService: LabListService){
     this.labService.labList$.subscribe((list:any) => {
       this.labList = list;
@@ -23,14 +24,18 @@ export class LabCalcComponent {
 
   downloadImage(){
     const now = new Date();
+    this.vp = document.getElementById('viewportMeta')?.getAttribute('content')
+    document.getElementById("viewportMeta")?.setAttribute("content", "width=800");
 
     html2canvas(this.screen.nativeElement).then(canvas => {
-
       this.canvas.nativeElement.src = canvas.toDataURL();
       this.downloadLink.nativeElement.href = canvas.toDataURL('image/png');
       this.downloadLink.nativeElement.download = `${now.toLocaleString()}.png`;
       this.downloadLink.nativeElement.click();
-    });
+    }).then(()=> {
+      document.getElementById("viewportMeta")?.setAttribute("content", this.vp);
+
+    })
   }
 
   private sum() {

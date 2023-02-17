@@ -33,9 +33,6 @@ export class LabListComponent {
       element?.classList.remove('add');
       return false;
     }
-    
-
-
   }
 
   
