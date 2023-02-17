@@ -1,0 +1,19 @@
+<div class="list-group lab-list">
+  <div *ngIf="labList.length">
+    <ng-container *ngFor="let item of labList">
+      <a
+        class="list-group-item flex-column align-items-start"
+        (click)="remove(item)"
+      >
+        <div class="d-flex w-100 justify-content-between">
+          <h3 class="mb-1 fw-bold">{{ item.test }}</h3>
+        </div>
+        <p class="mb-1">Codigo: {{ item.code }} - Precio: {{ item.price }}</p>
+      </a>
+    </ng-container>
+
+  </div>
+</div>
+<span *ngIf="labList.length">Laboratorios seleccionados: {{ labList.length }}</span>
+
+<div *ngIf="!labList.length">No hay laboratorios seleccionados</div>

@@ -1,0 +1,19 @@
+@use '../../../../styles.scss' as v;
+
+.lab-list {
+    overflow: auto;
+    height: 100vh;
+}
+
+.list-group-item {
+    cursor: pointer;
+    &:hover {
+        color:v.$purple
+    }
+}
+
+.add {
+    background-color: v.$light-green;
+    color:v.$purple
+}
+

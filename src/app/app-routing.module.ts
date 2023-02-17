@@ -2,8 +2,8 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
-  { path: '',loadChildren: async () => (await import('./pages/calc/calc.module')).CalcModule},
-  { path: '**', redirectTo: '', pathMatch: 'full' },
+  { path: 'laboratory', loadChildren: async () => (await import('./pages/lab/lab.module')).LabModule},
+  { path: '**', redirectTo: 'laboratory', pathMatch: 'full' },
 
 ];
 
