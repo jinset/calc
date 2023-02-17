@@ -9,7 +9,7 @@ import {LabListService} from '../../../shared/services/lab-list.service'
 })
 export class LabListComponent {
   labList: any[] = dataLSJ;
-
+  searchQuery: string = '';
   constructor(private labService: LabListService) {
 
   }

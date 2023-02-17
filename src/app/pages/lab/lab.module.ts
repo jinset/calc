@@ -6,18 +6,22 @@ import { LabComponent } from './lab.component';
 import { LabListComponent } from './lab-list/lab-list.component';
 import { LabListAddComponent } from './lab-list-add/lab-list-add.component';
 import { LabCalcComponent } from './lab-calc/lab-calc.component';
-
+import { FormsModule } from '@angular/forms';
+import { FilterPipe } from '../../shared/pipe/filter.pipe'
 
 @NgModule({
   declarations: [
+    FilterPipe,
     LabComponent,
     LabListComponent,
     LabListAddComponent,
-    LabCalcComponent
+    LabCalcComponent,
+    
   ],
   imports: [
     CommonModule,
-    LabRoutingModule
+    LabRoutingModule,
+    FormsModule
   ]
 })
 export class LabModule { }

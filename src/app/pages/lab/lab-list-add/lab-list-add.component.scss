@@ -1,4 +1,19 @@
+@use '../../../../styles.scss' as v;
+
 .lab-list {
   overflow: auto;
   max-height: 75vh;
+}
+
+.btn-primary {
+  background-color: v.$purple ;
+  color: v.$papaya;
+  border-color: v.$purple;
+}
+
+.btn-primary:active, .btn-primary:hover{
+  background-color: v.$papaya ;
+  color: v.$purple;
+  border-color: v.$papaya;
+
 }

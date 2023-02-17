@@ -1,6 +1,20 @@
+<div>
+  <div class="input-group mb-3">
+    <input
+      type="text"
+      class="form-control"
+      placeholder="Busqueda por nombre"
+      [(ngModel)]="searchQuery"
+    />
+  </div>
+</div>
 <div class="list-group lab-list">
-  <ng-container *ngFor="let item of labList">
-    <a class="list-group-item flex-column align-items-start" [id]="item.code" (click)="addLab(item)">
+  <ng-container *ngFor="let item of labList | filter : searchQuery">
+    <a
+      class="list-group-item flex-column align-items-start"
+      [id]="item.code"
+      (click)="addLab(item)"
+    >
       <div class="d-flex w-100 justify-content-between">
         <h3 class="mb-1 fw-bold">{{ item.test }}</h3>
       </div>
