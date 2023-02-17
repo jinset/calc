@@ -1,1157 +1,1157 @@
 [
   {
-    "CODIGO": "T001",
-    "PRUEBA": "CHEQUEO ADULTO",
-    "PRECIO": 23000
+    "code": "T001",
+    "test": "CHEQUEO ADULTO",
+    "price": 23000
   },
   {
-    "CODIGO": "T009",
-    "PRUEBA": "TIROIDES",
-    "PRECIO": 20000
+    "code": "T009",
+    "test": "TIROIDES",
+    "price": 20000
   },
   {
-    "CODIGO": "T011",
-    "PRUEBA": "HEPÁTICO",
-    "PRECIO": 22000
+    "code": "T011",
+    "test": "HEPÁTICO",
+    "price": 22000
   },
   {
-    "CODIGO": "T013",
-    "PRUEBA": "HORMONAL FEMENINO",
-    "PRECIO": 35000
+    "code": "T013",
+    "test": "HORMONAL FEMENINO",
+    "price": 35000
   },
   {
-    "CODIGO": 145,
-    "PRUEBA": "AC ANTI MICROSOMAS/ PEROXIDASA",
-    "PRECIO": 21000
+    "code": 145,
+    "test": "AC ANTI MICROSOMAS/ PEROXIDASA",
+    "price": 21000
   },
   {
-    "CODIGO": 144,
-    "PRUEBA": "AC ANTI TIROGLOBULINAS",
-    "PRECIO": 21000
+    "code": 144,
+    "test": "AC ANTI TIROGLOBULINAS",
+    "price": 21000
   },
   {
-    "CODIGO": 207,
-    "PRUEBA": "ACIDO FOLICO",
-    "PRECIO": 22000
+    "code": 207,
+    "test": "ACIDO FOLICO",
+    "price": 22000
   },
   {
-    "CODIGO": 66,
-    "PRUEBA": "ACIDO URICO",
-    "PRECIO": 5800
+    "code": 66,
+    "test": "ACIDO URICO",
+    "price": 5800
   },
   {
-    "CODIGO": 96,
-    "PRUEBA": "ACIDO VALPROICO (EPIVAL)",
-    "PRECIO": 18000
+    "code": 96,
+    "test": "ACIDO VALPROICO (EPIVAL)",
+    "price": 18000
   },
   {
-    "CODIGO": 264,
-    "PRUEBA": "ACTH",
-    "PRECIO": 34000
+    "code": 264,
+    "test": "ACTH",
+    "price": 34000
   },
   {
-    "CODIGO": 84,
-    "PRUEBA": "AFP",
-    "PRECIO": 16000
+    "code": 84,
+    "test": "AFP",
+    "price": 16000
   },
   {
-    "CODIGO": 324,
-    "PRUEBA": "AFP EMBARAZO",
-    "PRECIO": 16000
+    "code": 324,
+    "test": "AFP EMBARAZO",
+    "price": 16000
   },
   {
-    "CODIGO": 128,
-    "PRUEBA": "AGLUTINACIONES FEBRILES",
-    "PRECIO": 18500
+    "code": 128,
+    "test": "AGLUTINACIONES FEBRILES",
+    "price": 18500
   },
   {
-    "CODIGO": 285,
-    "PRUEBA": "ALBUMINA",
-    "PRECIO": 9000
+    "code": 285,
+    "test": "ALBUMINA",
+    "price": 9000
   },
   {
-    "CODIGO": 249,
-    "PRUEBA": "ALCOHOLEMIA",
-    "PRECIO": 26000
+    "code": 249,
+    "test": "ALCOHOLEMIA",
+    "price": 26000
   },
   {
-    "CODIGO": 286,
-    "PRUEBA": "ALDOSTERONA",
-    "PRECIO": 24000
+    "code": 286,
+    "test": "ALDOSTERONA",
+    "price": 24000
   },
   {
-    "CODIGO": 26,
-    "PRUEBA": "ALOAGLUTININAS",
-    "PRECIO": 18500
+    "code": 26,
+    "test": "ALOAGLUTININAS",
+    "price": 18500
   },
   {
-    "CODIGO": 85,
-    "PRUEBA": "AMILASA",
-    "PRECIO": 13000
+    "code": 85,
+    "test": "AMILASA",
+    "price": 13000
   },
   {
-    "CODIGO": 13,
-    "PRUEBA": "AMONIO",
-    "PRECIO": 31000
+    "code": 13,
+    "test": "AMONIO",
+    "price": 31000
   },
   {
-    "CODIGO": 142,
-    "PRUEBA": "ANA",
-    "PRECIO": 22000
+    "code": 142,
+    "test": "ANA",
+    "price": 22000
   },
   {
-    "CODIGO": 155,
-    "PRUEBA": "ANALISIS BACTERIOLOGICO AGUA",
-    "PRECIO": 26000
+    "code": 155,
+    "test": "ANALISIS BACTERIOLOGICO AGUA",
+    "price": 26000
   },
   {
-    "CODIGO": 274,
-    "PRUEBA": "ANDROSTENEDIONA",
-    "PRECIO": 24000
+    "code": 274,
+    "test": "ANDROSTENEDIONA",
+    "price": 24000
   },
   {
-    "CODIGO": 302,
-    "PRUEBA": "ANFETAMINAS",
-    "PRECIO": 10000
+    "code": 302,
+    "test": "ANFETAMINAS",
+    "price": 10000
   },
   {
-    "CODIGO": 11,
-    "PRUEBA": "ANTI - ENA",
-    "PRECIO": 22000
+    "code": 11,
+    "test": "ANTI - ENA",
+    "price": 22000
   },
   {
-    "CODIGO": 339,
-    "PRUEBA": "ANTI B2 GLICOPROTEINA I IgA",
-    "PRECIO": 25000
+    "code": 339,
+    "test": "ANTI B2 GLICOPROTEINA I IgA",
+    "price": 25000
   },
   {
-    "CODIGO": 291,
-    "PRUEBA": "ANTI CARDIOLIPINA G",
-    "PRECIO": 22000
+    "code": 291,
+    "test": "ANTI CARDIOLIPINA G",
+    "price": 22000
   },
   {
-    "CODIGO": 292,
-    "PRUEBA": "ANTI CARDIOLIPINA M",
-    "PRECIO": 22000
+    "code": 292,
+    "test": "ANTI CARDIOLIPINA M",
+    "price": 22000
   },
   {
-    "CODIGO": 434,
-    "PRUEBA": "ANTI ENDOMISIO IGA",
-    "PRECIO": 25000
+    "code": 434,
+    "test": "ANTI ENDOMISIO IGA",
+    "price": 25000
   },
   {
-    "CODIGO": 334,
-    "PRUEBA": "ANTI Jo-1",
-    "PRECIO": 22000
+    "code": 334,
+    "test": "ANTI Jo-1",
+    "price": 22000
   },
   {
-    "CODIGO": 182,
-    "PRUEBA": "ANTI MUSCULO LISO",
-    "PRECIO": 20000
+    "code": 182,
+    "test": "ANTI MUSCULO LISO",
+    "price": 20000
   },
   {
-    "CODIGO": 333,
-    "PRUEBA": "ANTI RNP",
-    "PRECIO": 22000
+    "code": 333,
+    "test": "ANTI RNP",
+    "price": 22000
   },
   {
-    "CODIGO": 335,
-    "PRUEBA": "ANTI Scl-70",
-    "PRECIO": 22000
+    "code": 335,
+    "test": "ANTI Scl-70",
+    "price": 22000
   },
   {
-    "CODIGO": 330,
-    "PRUEBA": "ANTI SM",
-    "PRECIO": 22000
+    "code": 330,
+    "test": "ANTI SM",
+    "price": 22000
   },
   {
-    "CODIGO": 331,
-    "PRUEBA": "ANTI SSA (Ro)",
-    "PRECIO": 22000
+    "code": 331,
+    "test": "ANTI SSA (Ro)",
+    "price": 22000
   },
   {
-    "CODIGO": 332,
-    "PRUEBA": "ANTI SSB (La)",
-    "PRECIO": 22000
+    "code": 332,
+    "test": "ANTI SSB (La)",
+    "price": 22000
   },
   {
-    "CODIGO": 37,
-    "PRUEBA": "ANTICUERPOS ANTI CCP",
-    "PRECIO": 25000
+    "code": 37,
+    "test": "ANTICUERPOS ANTI CCP",
+    "price": 25000
   },
   {
-    "CODIGO": 10,
-    "PRUEBA": "ANTICUERPOS ANTI CENTROMERO",
-    "PRECIO": 21000
+    "code": 10,
+    "test": "ANTICUERPOS ANTI CENTROMERO",
+    "price": 21000
   },
   {
-    "CODIGO": 9,
-    "PRUEBA": "ANTICUERPOS ANTI DNA (ds)",
-    "PRECIO": 23000
+    "code": 9,
+    "test": "ANTICUERPOS ANTI DNA (ds)",
+    "price": 23000
   },
   {
-    "CODIGO": 131,
-    "PRUEBA": "ASO (Antiestreptolisina O)",
-    "PRECIO": 14500
+    "code": 131,
+    "test": "ASO (Antiestreptolisina O)",
+    "price": 14500
   },
   {
-    "CODIGO": 5,
-    "PRUEBA": "AZUCARES REDUCTORES",
-    "PRECIO": 5940
+    "code": 5,
+    "test": "AZUCARES REDUCTORES",
+    "price": 5940
   },
   {
-    "CODIGO": 337,
-    "PRUEBA": "BETA CROSSLAPS -SD",
-    "PRECIO": 35000
+    "code": 337,
+    "test": "BETA CROSSLAPS -SD",
+    "price": 35000
   },
   {
-    "CODIGO": 309,
-    "PRUEBA": "BILIRRUBINA DIRECTA",
-    "PRECIO": 8000
+    "code": 309,
+    "test": "BILIRRUBINA DIRECTA",
+    "price": 8000
   },
   {
-    "CODIGO": 76,
-    "PRUEBA": "BILIRRUBINA T/F",
-    "PRECIO": 13000
+    "code": 76,
+    "test": "BILIRRUBINA T/F",
+    "price": 13000
   },
   {
-    "CODIGO": 283,
-    "PRUEBA": "BILIRRUBINA TOTAL",
-    "PRECIO": 9000
+    "code": 283,
+    "test": "BILIRRUBINA TOTAL",
+    "price": 9000
   },
   {
-    "CODIGO": 338,
-    "PRUEBA": "BILIRUBINA INDIRECTA",
-    "PRECIO": 8000
+    "code": 338,
+    "test": "BILIRUBINA INDIRECTA",
+    "price": 8000
   },
   {
-    "CODIGO": 24,
-    "PRUEBA": "BILIRUBINAS EN ORINA",
-    "PRECIO": 8000
+    "code": 24,
+    "test": "BILIRUBINAS EN ORINA",
+    "price": 8000
   },
   {
-    "CODIGO": 156,
-    "PRUEBA": "C3",
-    "PRECIO": 18000
+    "code": 156,
+    "test": "C3",
+    "price": 18000
   },
   {
-    "CODIGO": 157,
-    "PRUEBA": "C4",
-    "PRECIO": 18000
+    "code": 157,
+    "test": "C4",
+    "price": 18000
   },
   {
-    "CODIGO": 254,
-    "PRUEBA": "CA 125",
-    "PRECIO": 10500
+    "code": 254,
+    "test": "CA 125",
+    "price": 10500
   },
   {
-    "CODIGO": 277,
-    "PRUEBA": "CA 15-3",
-    "PRECIO": 15700
+    "code": 277,
+    "test": "CA 15-3",
+    "price": 15700
   },
   {
-    "CODIGO": 276,
-    "PRUEBA": "CA 19-9",
-    "PRECIO": 15700
+    "code": 276,
+    "test": "CA 19-9",
+    "price": 15700
   },
   {
-    "CODIGO": 406,
-    "PRUEBA": "CA 72-4",
-    "PRECIO": 27000
+    "code": 406,
+    "test": "CA 72-4",
+    "price": 27000
   },
   {
-    "CODIGO": 73,
-    "PRUEBA": "CALCIO",
-    "PRECIO": 8900
+    "code": 73,
+    "test": "CALCIO",
+    "price": 8900
   },
   {
-    "CODIGO": 104,
-    "PRUEBA": "CALCULO URINARIO O VESICAL",
-    "PRECIO": 32000
+    "code": 104,
+    "test": "CALCULO URINARIO O VESICAL",
+    "price": 32000
   },
   {
-    "CODIGO": 89,
-    "PRUEBA": "CAMPO OSCURO LEPTOSPIRA",
-    "PRECIO": 28000
+    "code": 89,
+    "test": "CAMPO OSCURO LEPTOSPIRA",
+    "price": 28000
   },
   {
-    "CODIGO": 95,
-    "PRUEBA": "CARBAMAZEPINA (TEGRETOL)",
-    "PRECIO": 18000
+    "code": 95,
+    "test": "CARBAMAZEPINA (TEGRETOL)",
+    "price": 18000
   },
   {
-    "CODIGO": 83,
-    "PRUEBA": "CEA",
-    "PRECIO": 16200
+    "code": 83,
+    "test": "CEA",
+    "price": 16200
   },
   {
-    "CODIGO": 40,
-    "PRUEBA": "CELULAS LE",
-    "PRECIO": 11000
+    "code": 40,
+    "test": "CELULAS LE",
+    "price": 11000
   },
   {
-    "CODIGO": 189,
-    "PRUEBA": "CERULOPLASMINA",
-    "PRECIO": 13000
+    "code": 189,
+    "test": "CERULOPLASMINA",
+    "price": 13000
   },
   {
-    "CODIGO": 305,
-    "PRUEBA": "CHAGAS",
-    "PRECIO": 32000
+    "code": 305,
+    "test": "CHAGAS",
+    "price": 32000
   },
   {
-    "CODIGO": 247,
-    "PRUEBA": "CHLAMYDIA G",
-    "PRECIO": 19500
+    "code": 247,
+    "test": "CHLAMYDIA G",
+    "price": 19500
   },
   {
-    "CODIGO": 301,
-    "PRUEBA": "CHLAMYDIA M",
-    "PRECIO": 19500
+    "code": 301,
+    "test": "CHLAMYDIA M",
+    "price": 19500
   },
   {
-    "CODIGO": 239,
-    "PRUEBA": "CITOMEGALOVIRUS G",
-    "PRECIO": 19500
+    "code": 239,
+    "test": "CITOMEGALOVIRUS G",
+    "price": 19500
   },
   {
-    "CODIGO": 240,
-    "PRUEBA": "CITOMEGALOVIRUS M",
-    "PRECIO": 19500
+    "code": 240,
+    "test": "CITOMEGALOVIRUS M",
+    "price": 19500
   },
   {
-    "CODIGO": 71,
-    "PRUEBA": "CLORURO",
-    "PRECIO": 8900
+    "code": 71,
+    "test": "CLORURO",
+    "price": 8900
   },
   {
-    "CODIGO": 307,
-    "PRUEBA": "CLORUROS ORINA 24H",
-    "PRECIO": 11000
+    "code": 307,
+    "test": "CLORUROS ORINA 24H",
+    "price": 11000
   },
   {
-    "CODIGO": 149,
-    "PRUEBA": "CLOSTRIDIUM DIFFICILE (TOXINA)",
-    "PRECIO": 35000
+    "code": 149,
+    "test": "CLOSTRIDIUM DIFFICILE (TOXINA)",
+    "price": 35000
   },
   {
-    "CODIGO": 140,
-    "PRUEBA": "COBRE",
-    "PRECIO": 14500
+    "code": 140,
+    "test": "COBRE",
+    "price": 14500
   },
   {
-    "CODIGO": 308,
-    "PRUEBA": "COBRE EN ORINA 24 HRS",
-    "PRECIO": 14500
+    "code": 308,
+    "test": "COBRE EN ORINA 24 HRS",
+    "price": 14500
   },
   {
-    "CODIGO": 232,
-    "PRUEBA": "COCAINA",
-    "PRECIO": 10000
+    "code": 232,
+    "test": "COCAINA",
+    "price": 10000
   },
   {
-    "CODIGO": 164,
-    "PRUEBA": "COLINESTERASA",
-    "PRECIO": 10000
+    "code": 164,
+    "test": "COLINESTERASA",
+    "price": 10000
   },
   {
-    "CODIGO": 7,
-    "PRUEBA": "COLONCHECK (SANGRE OCULTA EN HECES)",
-    "PRECIO": 6100
+    "code": 7,
+    "test": "COLONCHECK (SANGRE OCULTA EN HECES)",
+    "price": 6100
   },
   {
-    "CODIGO": 48,
-    "PRUEBA": "COOMBS DIRECTO",
-    "PRECIO": 13000
+    "code": 48,
+    "test": "COOMBS DIRECTO",
+    "price": 13000
   },
   {
-    "CODIGO": 49,
-    "PRUEBA": "COOMBS INDIRECTO",
-    "PRECIO": 15500
+    "code": 49,
+    "test": "COOMBS INDIRECTO",
+    "price": 15500
   },
   {
-    "CODIGO": 123,
-    "PRUEBA": "COPROCULTIVO",
-    "PRECIO": 16700
+    "code": 123,
+    "test": "COPROCULTIVO",
+    "price": 16700
   },
   {
-    "CODIGO": 299,
-    "PRUEBA": "CORTISOL ORINA 24HRS",
-    "PRECIO": 26000
+    "code": 299,
+    "test": "CORTISOL ORINA 24HRS",
+    "price": 26000
   },
   {
-    "CODIGO": 194,
-    "PRUEBA": "CORTISOL-AM",
-    "PRECIO": 16700
+    "code": 194,
+    "test": "CORTISOL-AM",
+    "price": 16700
   },
   {
-    "CODIGO": 192,
-    "PRUEBA": "CORTISOL-PM",
-    "PRECIO": 16700
+    "code": 192,
+    "test": "CORTISOL-PM",
+    "price": 16700
   },
   {
-    "CODIGO": 113,
-    "PRUEBA": "CPK MM",
-    "PRECIO": 31000
+    "code": 113,
+    "test": "CPK MM",
+    "price": 31000
   },
   {
-    "CODIGO": 87,
-    "PRUEBA": "CPK TOTAL",
-    "PRECIO": 12000
+    "code": 87,
+    "test": "CPK TOTAL",
+    "price": 12000
   },
   {
-    "CODIGO": 266,
-    "PRUEBA": "CPK-MB",
-    "PRECIO": 31000
+    "code": 266,
+    "test": "CPK-MB",
+    "price": 31000
   },
   {
-    "CODIGO": 65,
-    "PRUEBA": "CREATININA",
-    "PRECIO": 6100
+    "code": 65,
+    "test": "CREATININA",
+    "price": 6100
   },
   {
-    "CODIGO": 202,
-    "PRUEBA": "CREATININA EN ORINA AL AZAR",
-    "PRECIO": 8000
+    "code": 202,
+    "test": "CREATININA EN ORINA AL AZAR",
+    "price": 8000
   },
   {
-    "CODIGO": 25,
-    "PRUEBA": "CUERPOS CETONICOS EN ORINA",
-    "PRECIO": 8000
+    "code": 25,
+    "test": "CUERPOS CETONICOS EN ORINA",
+    "price": 8000
   },
   {
-    "CODIGO": 120,
-    "PRUEBA": "CULTIVO GENERAL",
-    "PRECIO": 18000
+    "code": 120,
+    "test": "CULTIVO GENERAL",
+    "price": 18000
   },
   {
-    "CODIGO": 125,
-    "PRUEBA": "CULTIVO POR HONGOS",
-    "PRECIO": 23500
+    "code": 125,
+    "test": "CULTIVO POR HONGOS",
+    "price": 23500
   },
   {
-    "CODIGO": 255,
-    "PRUEBA": "DENGUE G/M",
-    "PRECIO": 31000
+    "code": 255,
+    "test": "DENGUE G/M",
+    "price": 31000
   },
   {
-    "CODIGO": 22,
-    "PRUEBA": "DEPURACION DE CREATININA",
-    "PRECIO": 18000
+    "code": 22,
+    "test": "DEPURACION DE CREATININA",
+    "price": 18000
   },
   {
-    "CODIGO": 235,
-    "PRUEBA": "DHEA-S",
-    "PRECIO": 20000
+    "code": 235,
+    "test": "DHEA-S",
+    "price": 20000
   },
   {
-    "CODIGO": 86,
-    "PRUEBA": "DHL COBAS",
-    "PRECIO": 12000
+    "code": 86,
+    "test": "DHL COBAS",
+    "price": 12000
   },
   {
-    "CODIGO": 100,
-    "PRUEBA": "DIGOXINA",
-    "PRECIO": 18000
+    "code": 100,
+    "test": "DIGOXINA",
+    "price": 18000
   },
   {
-    "CODIGO": 303,
-    "PRUEBA": "DIMERO D",
-    "PRECIO": 28000
+    "code": 303,
+    "test": "DIMERO D",
+    "price": 28000
   },
   {
-    "CODIGO": 205,
-    "PRUEBA": "ELECTROFORESIS DE HEMOGLOBINA",
-    "PRECIO": 36000
+    "code": 205,
+    "test": "ELECTROFORESIS DE HEMOGLOBINA",
+    "price": 36000
   },
   {
-    "CODIGO": 206,
-    "PRUEBA": "ELECTROFORESIS DE PROTEINAS",
-    "PRECIO": 36000
+    "code": 206,
+    "test": "ELECTROFORESIS DE PROTEINAS",
+    "price": 36000
   },
   {
-    "CODIGO": 45,
-    "PRUEBA": "EOSINOFILOS MOCO NASAL",
-    "PRECIO": 12000
+    "code": 45,
+    "test": "EOSINOFILOS MOCO NASAL",
+    "price": 12000
   },
   {
-    "CODIGO": 270,
-    "PRUEBA": "EPSTEIN BAAR IGG-(VCA)- EBV VIRCLIA",
-    "PRECIO": 23000
+    "code": 270,
+    "test": "EPSTEIN BAAR IGG-(VCA)- EBV VIRCLIA",
+    "price": 23000
   },
   {
-    "CODIGO": 306,
-    "PRUEBA": "EPSTEIN BAAR IGM-(VCA)- EBV VIRCLIA",
-    "PRECIO": 23000
+    "code": 306,
+    "test": "EPSTEIN BAAR IGM-(VCA)- EBV VIRCLIA",
+    "price": 23000
   },
   {
-    "CODIGO": 433,
-    "PRUEBA": "ESPERMOGRAMA",
-    "PRECIO": 15300
+    "code": 433,
+    "test": "ESPERMOGRAMA",
+    "price": 15300
   },
   {
-    "CODIGO": 105,
-    "PRUEBA": "ESTRADIOL",
-    "PRECIO": 10500
+    "code": 105,
+    "test": "ESTRADIOL",
+    "price": 10500
   },
   {
-    "CODIGO": 150,
-    "PRUEBA": "FACTOR LUPICO",
-    "PRECIO": 26000
+    "code": 150,
+    "test": "FACTOR LUPICO",
+    "price": 26000
   },
   {
-    "CODIGO": 129,
-    "PRUEBA": "FACTOR REUMATICO",
-    "PRECIO": 9400
+    "code": 129,
+    "test": "FACTOR REUMATICO",
+    "price": 9400
   },
   {
-    "CODIGO": 92,
-    "PRUEBA": "FENITOINA",
-    "PRECIO": 18000
+    "code": 92,
+    "test": "FENITOINA",
+    "price": 18000
   },
   {
-    "CODIGO": 94,
-    "PRUEBA": "FENOBARBITAL",
-    "PRECIO": 18000
+    "code": 94,
+    "test": "FENOBARBITAL",
+    "price": 18000
   },
   {
-    "CODIGO": 244,
-    "PRUEBA": "FERRITINA",
-    "PRECIO": 18000
+    "code": 244,
+    "test": "FERRITINA",
+    "price": 18000
   },
   {
-    "CODIGO": 162,
-    "PRUEBA": "FIBRINOGENO",
-    "PRECIO": 12000
+    "code": 162,
+    "test": "FIBRINOGENO",
+    "price": 12000
   },
   {
-    "CODIGO": 81,
-    "PRUEBA": "FOSFATASA ALCALINA",
-    "PRECIO": 10500
+    "code": 81,
+    "test": "FOSFATASA ALCALINA",
+    "price": 10500
   },
   {
-    "CODIGO": 74,
-    "PRUEBA": "FOSFORO",
-    "PRECIO": 8900
+    "code": 74,
+    "test": "FOSFORO",
+    "price": 8900
   },
   {
-    "CODIGO": 2,
-    "PRUEBA": "FROTIS DE HECES",
-    "PRECIO": 12400
+    "code": 2,
+    "test": "FROTIS DE HECES",
+    "price": 12400
   },
   {
-    "CODIGO": 312,
-    "PRUEBA": "FROTIS GENERAL",
-    "PRECIO": 8470
+    "code": 312,
+    "test": "FROTIS GENERAL",
+    "price": 8470
   },
   {
-    "CODIGO": 119,
-    "PRUEBA": "FROTIS POR HONGOS",
-    "PRECIO": 12000
+    "code": 119,
+    "test": "FROTIS POR HONGOS",
+    "price": 12000
   },
   {
-    "CODIGO": 46,
-    "PRUEBA": "FROTIS POR MALARIA",
-    "PRECIO": 16000
+    "code": 46,
+    "test": "FROTIS POR MALARIA",
+    "price": 16000
   },
   {
-    "CODIGO": 311,
-    "PRUEBA": "FROTIS X BK",
-    "PRECIO": 6300
+    "code": 311,
+    "test": "FROTIS X BK",
+    "price": 6300
   },
   {
-    "CODIGO": 109,
-    "PRUEBA": "FSH",
-    "PRECIO": 10400
+    "code": 109,
+    "test": "FSH",
+    "price": 10400
   },
   {
-    "CODIGO": 136,
-    "PRUEBA": "FTA/A.B.S. IgM",
-    "PRECIO": 19500
+    "code": 136,
+    "test": "FTA/A.B.S. IgM",
+    "price": 19500
   },
   {
-    "CODIGO": 196,
-    "PRUEBA": "FTA/ABS IgG",
-    "PRECIO": 19500
+    "code": 196,
+    "test": "FTA/ABS IgG",
+    "price": 19500
   },
   {
-    "CODIGO": 263,
-    "PRUEBA": "FTI",
-    "PRECIO": 17000
+    "code": 263,
+    "test": "FTI",
+    "price": 17000
   },
   {
-    "CODIGO": 80,
-    "PRUEBA": "GAMA GLUTAMIL TRANSPEPTIDASA",
-    "PRECIO": 12000
+    "code": 80,
+    "test": "GAMA GLUTAMIL TRANSPEPTIDASA",
+    "price": 12000
   },
   {
-    "CODIGO": 227,
-    "PRUEBA": "GLUCOSA 1 HR POST CARGA",
-    "PRECIO": 16000
+    "code": 227,
+    "test": "GLUCOSA 1 HR POST CARGA",
+    "price": 16000
   },
   {
-    "CODIGO": 198,
-    "PRUEBA": "GLUCOSA AL AZAR",
-    "PRECIO": 4900
+    "code": 198,
+    "test": "GLUCOSA AL AZAR",
+    "price": 4900
   },
   {
-    "CODIGO": 187,
-    "PRUEBA": "GLUCOSURIA",
-    "PRECIO": 11000
+    "code": 187,
+    "test": "GLUCOSURIA",
+    "price": 11000
   },
   {
-    "CODIGO": 4,
-    "PRUEBA": "GRASAS EN HECES",
-    "PRECIO": 8000
+    "code": 4,
+    "test": "GRASAS EN HECES",
+    "price": 8000
   },
   {
-    "CODIGO": 47,
-    "PRUEBA": "GRUPO RH",
-    "PRECIO": 5.2
+    "code": 47,
+    "test": "GRUPO RH",
+    "price": 5.2
   },
   {
-    "CODIGO": 116,
-    "PRUEBA": "HCG CUANTIFICADA",
-    "PRECIO": 23000
+    "code": 116,
+    "test": "HCG CUANTIFICADA",
+    "price": 23000
   },
   {
-    "CODIGO": 1,
-    "PRUEBA": "HECES GENERAL",
-    "PRECIO": 5300
+    "code": 1,
+    "test": "HECES GENERAL",
+    "price": 5300
   },
   {
-    "CODIGO": 252,
-    "PRUEBA": "HELICOBACTER PYLORI-IgG",
-    "PRECIO": 23000
+    "code": 252,
+    "test": "HELICOBACTER PYLORI-IgG",
+    "price": 23000
   },
   {
-    "CODIGO": 168,
-    "PRUEBA": "HEMATOZOARIOS",
-    "PRECIO": 16000
+    "code": 168,
+    "test": "HEMATOZOARIOS",
+    "price": 16000
   },
   {
-    "CODIGO": 246,
-    "PRUEBA": "HEMOCULTIVO",
-    "PRECIO": 35000
+    "code": 246,
+    "test": "HEMOCULTIVO",
+    "price": 35000
   },
   {
-    "CODIGO": 57,
-    "PRUEBA": "HEMOGLOBINA GLICOSILADA",
-    "PRECIO": 11700
+    "code": 57,
+    "test": "HEMOGLOBINA GLICOSILADA",
+    "price": 11700
   },
   {
-    "CODIGO": 30,
-    "PRUEBA": "HEMOGRAMA",
-    "PRECIO": 7300
+    "code": 30,
+    "test": "HEMOGRAMA",
+    "price": 7300
   },
   {
-    "CODIGO": 259,
-    "PRUEBA": "HEPATITIS A-IgG",
-    "PRECIO": 23000
+    "code": 259,
+    "test": "HEPATITIS A-IgG",
+    "price": 23000
   },
   {
-    "CODIGO": 260,
-    "PRUEBA": "HEPATITIS A-IgM",
-    "PRECIO": 23000
+    "code": 260,
+    "test": "HEPATITIS A-IgM",
+    "price": 23000
   },
   {
-    "CODIGO": 279,
-    "PRUEBA": "HEPATITIS B ANTI E (HBEAC)",
-    "PRECIO": 21000
+    "code": 279,
+    "test": "HEPATITIS B ANTI E (HBEAC)",
+    "price": 21000
   },
   {
-    "CODIGO": 280,
-    "PRUEBA": "HEPATITIS B (VACUNA)",
-    "PRECIO": 18000
+    "code": 280,
+    "test": "HEPATITIS B (VACUNA)",
+    "price": 18000
   },
   {
-    "CODIGO": 298,
-    "PRUEBA": "HEPATITIS B AG E (HBEAG)",
-    "PRECIO": 23500
+    "code": 298,
+    "test": "HEPATITIS B AG E (HBEAG)",
+    "price": 23500
   },
   {
-    "CODIGO": 139,
-    "PRUEBA": "HEPATITIS B AG SUPERFICIE",
-    "PRECIO": 16600
+    "code": 139,
+    "test": "HEPATITIS B AG SUPERFICIE",
+    "price": 16600
   },
   {
-    "CODIGO": 295,
-    "PRUEBA": "HEPATITIS B CORE IGM",
-    "PRECIO": 23000
+    "code": 295,
+    "test": "HEPATITIS B CORE IGM",
+    "price": 23000
   },
   {
-    "CODIGO": 296,
-    "PRUEBA": "HEPATITIS B CORE TOTAL",
-    "PRECIO": 23000
+    "code": 296,
+    "test": "HEPATITIS B CORE TOTAL",
+    "price": 23000
   },
   {
-    "CODIGO": 261,
-    "PRUEBA": "HEPATITIS C",
-    "PRECIO": 18000
+    "code": 261,
+    "test": "HEPATITIS C",
+    "price": 18000
   },
   {
-    "CODIGO": 175,
-    "PRUEBA": "HERPES I IgG",
-    "PRECIO": 19500
+    "code": 175,
+    "test": "HERPES I IgG",
+    "price": 19500
   },
   {
-    "CODIGO": 93,
-    "PRUEBA": "HERPES I IGM",
-    "PRECIO": 19500
+    "code": 93,
+    "test": "HERPES I IGM",
+    "price": 19500
   },
   {
-    "CODIGO": 143,
-    "PRUEBA": "HERPES II IgG",
-    "PRECIO": 19500
+    "code": 143,
+    "test": "HERPES II IgG",
+    "price": 19500
   },
   {
-    "CODIGO": 237,
-    "PRUEBA": "HERPES II IGM",
-    "PRECIO": 19500
+    "code": 237,
+    "test": "HERPES II IGM",
+    "price": 19500
   },
   {
-    "CODIGO": 38,
-    "PRUEBA": "HIERRO + TRANSFERRINA",
-    "PRECIO": 18500
+    "code": 38,
+    "test": "HIERRO + TRANSFERRINA",
+    "price": 18500
   },
   {
-    "CODIGO": 186,
-    "PRUEBA": "HIV (I/II)",
-    "PRECIO": 11500
+    "code": 186,
+    "test": "HIV (I/II)",
+    "price": 11500
   },
   {
-    "CODIGO": 165,
-    "PRUEBA": "HORMONA DE CRECIMIENTO",
-    "PRECIO": 25000
+    "code": 165,
+    "test": "HORMONA DE CRECIMIENTO",
+    "price": 25000
   },
   {
-    "CODIGO": 159,
-    "PRUEBA": "HPSA H.PYLORI EN HECES",
-    "PRECIO": 13800
+    "code": 159,
+    "test": "HPSA H.PYLORI EN HECES",
+    "price": 13800
   },
   {
-    "CODIGO": 290,
-    "PRUEBA": "IGF-1",
-    "PRECIO": 30000
+    "code": 290,
+    "test": "IGF-1",
+    "price": 30000
   },
   {
-    "CODIGO": 172,
-    "PRUEBA": "INDICE ANDROGENICO HOMBRE",
-    "PRECIO": 40000
+    "code": 172,
+    "test": "INDICE ANDROGENICO HOMBRE",
+    "price": 40000
   },
   {
-    "CODIGO": 16,
-    "PRUEBA": "INDICE ANDROGENICO MUJER",
-    "PRECIO": 39000
+    "code": 16,
+    "test": "INDICE ANDROGENICO MUJER",
+    "price": 39000
   },
   {
-    "CODIGO": 432,
-    "PRUEBA": "INDICE HOMA",
-    "PRECIO": 25000
+    "code": 432,
+    "test": "INDICE HOMA",
+    "price": 25000
   },
   {
-    "CODIGO": 328,
-    "PRUEBA": "INMUNOGLOBULINA A (IgA)",
-    "PRECIO": 19500
+    "code": 328,
+    "test": "INMUNOGLOBULINA A (IgA)",
+    "price": 19500
   },
   {
-    "CODIGO": 166,
-    "PRUEBA": "INMUNOGLOBULINA E (IgE)",
-    "PRECIO": 10200
+    "code": 166,
+    "test": "INMUNOGLOBULINA E (IgE)",
+    "price": 10200
   },
   {
-    "CODIGO": 148,
-    "PRUEBA": "INMUNOGLOBULINA G (IgG)",
-    "PRECIO": 19500
+    "code": 148,
+    "test": "INMUNOGLOBULINA G (IgG)",
+    "price": 19500
   },
   {
-    "CODIGO": 329,
-    "PRUEBA": "INMUNOGLOBULINA M (IgM)",
-    "PRECIO": 19500
+    "code": 329,
+    "test": "INMUNOGLOBULINA M (IgM)",
+    "price": 19500
   },
   {
-    "CODIGO": 268,
-    "PRUEBA": "INSULINA 1 HORA",
-    "PRECIO": 11500
+    "code": 268,
+    "test": "INSULINA 1 HORA",
+    "price": 11500
   },
   {
-    "CODIGO": 269,
-    "PRUEBA": "INSULINA 2 HORAS",
-    "PRECIO": 11500
+    "code": 269,
+    "test": "INSULINA 2 HORAS",
+    "price": 11500
   },
   {
-    "CODIGO": 258,
-    "PRUEBA": "INSULINA AL AZAR",
-    "PRECIO": 11500
+    "code": 258,
+    "test": "INSULINA AL AZAR",
+    "price": 11500
   },
   {
-    "CODIGO": 114,
-    "PRUEBA": "INSULINA AYUNAS",
-    "PRECIO": 11500
+    "code": 114,
+    "test": "INSULINA AYUNAS",
+    "price": 11500
   },
   {
-    "CODIGO": 169,
-    "PRUEBA": "LEUCOGRAMA",
-    "PRECIO": 13000
+    "code": 169,
+    "test": "LEUCOGRAMA",
+    "price": 13000
   },
   {
-    "CODIGO": 110,
-    "PRUEBA": "LH",
-    "PRECIO": 11500
+    "code": 110,
+    "test": "LH",
+    "price": 11500
   },
   {
-    "CODIGO": 170,
-    "PRUEBA": "LIPASA-COBAS",
-    "PRECIO": 13200
+    "code": 170,
+    "test": "LIPASA-COBAS",
+    "price": 13200
   },
   {
-    "CODIGO": 185,
-    "PRUEBA": "LITIO",
-    "PRECIO": 18000
+    "code": 185,
+    "test": "LITIO",
+    "price": 18000
   },
   {
-    "CODIGO": 75,
-    "PRUEBA": "MAGNESIO",
-    "PRECIO": 8500
+    "code": 75,
+    "test": "MAGNESIO",
+    "price": 8500
   },
   {
-    "CODIGO": 77,
-    "PRUEBA": "MAGNESIO EN ORINA 24 HORAS",
-    "PRECIO": 11000
+    "code": 77,
+    "test": "MAGNESIO EN ORINA 24 HORAS",
+    "price": 11000
   },
   {
-    "CODIGO": 233,
-    "PRUEBA": "MARIHUANA",
-    "PRECIO": 10000
+    "code": 233,
+    "test": "MARIHUANA",
+    "price": 10000
   },
   {
-    "CODIGO": 271,
-    "PRUEBA": "METABOLITOS DE BARBITURICOS",
-    "PRECIO": 12000
+    "code": 271,
+    "test": "METABOLITOS DE BARBITURICOS",
+    "price": 12000
   },
   {
-    "CODIGO": 12,
-    "PRUEBA": "METABOLITOS DE BENZODIACEPINAS",
-    "PRECIO": 10000
+    "code": 12,
+    "test": "METABOLITOS DE BENZODIACEPINAS",
+    "price": 10000
   },
   {
-    "CODIGO": 256,
-    "PRUEBA": "METABOLITOS DE FENCICLIDINA",
-    "PRECIO": 12000
+    "code": 256,
+    "test": "METABOLITOS DE FENCICLIDINA",
+    "price": 12000
   },
   {
-    "CODIGO": 347,
-    "PRUEBA": "METANFETAMINAS",
-    "PRECIO": 10000
+    "code": 347,
+    "test": "METANFETAMINAS",
+    "price": 10000
   },
   {
-    "CODIGO": 199,
-    "PRUEBA": "MICROALBUMINURIA 24H",
-    "PRECIO": 12000
+    "code": 199,
+    "test": "MICROALBUMINURIA 24H",
+    "price": 12000
   },
   {
-    "CODIGO": 126,
-    "PRUEBA": "MICROALBUMINURIA AL AZAR",
-    "PRECIO": 12000
+    "code": 126,
+    "test": "MICROALBUMINURIA AL AZAR",
+    "price": 12000
   },
   {
-    "CODIGO": 217,
-    "PRUEBA": "MIOGLOBINURIA",
-    "PRECIO": 16000
+    "code": 217,
+    "test": "MIOGLOBINURIA",
+    "price": 16000
   },
   {
-    "CODIGO": 146,
-    "PRUEBA": "MITOCONDRIAS",
-    "PRECIO": 20000
+    "code": 146,
+    "test": "MITOCONDRIAS",
+    "price": 20000
   },
   {
-    "CODIGO": 132,
-    "PRUEBA": "MONO-TEST",
-    "PRECIO": 12000
+    "code": 132,
+    "test": "MONO-TEST",
+    "price": 12000
   },
   {
-    "CODIGO": 251,
-    "PRUEBA": "NICOTINA (COTININA)",
-    "PRECIO": 10000
+    "code": 251,
+    "test": "NICOTINA (COTININA)",
+    "price": 10000
   },
   {
-    "CODIGO": 63,
-    "PRUEBA": "NITROGENO UREICO",
-    "PRECIO": 6000
+    "code": 63,
+    "test": "NITROGENO UREICO",
+    "price": 6000
   },
   {
-    "CODIGO": 430,
-    "PRUEBA": "NITROGENO UREICO ORINA 24HRS",
-    "PRECIO": 8000
+    "code": 430,
+    "test": "NITROGENO UREICO ORINA 24HRS",
+    "price": 8000
   },
   {
-    "CODIGO": 163,
-    "PRUEBA": "OPIACEOS",
-    "PRECIO": 10000
+    "code": 163,
+    "test": "OPIACEOS",
+    "price": 10000
   },
   {
-    "CODIGO": 8,
-    "PRUEBA": "ORINA GENERAL",
-    "PRECIO": 5100
+    "code": 8,
+    "test": "ORINA GENERAL",
+    "price": 5100
   },
   {
-    "CODIGO": 171,
-    "PRUEBA": "OSMOLALIDAD ORINA",
-    "PRECIO": 23500
+    "code": 171,
+    "test": "OSMOLALIDAD ORINA",
+    "price": 23500
   },
   {
-    "CODIGO": 210,
-    "PRUEBA": "OSMOLALIDAD SERICA",
-    "PRECIO": 32500
+    "code": 210,
+    "test": "OSMOLALIDAD SERICA",
+    "price": 32500
   },
   {
-    "CODIGO": 253,
-    "PRUEBA": "PAPILOCHECK MUJER-SD",
-    "PRECIO": 40000
+    "code": 253,
+    "test": "PAPILOCHECK MUJER-SD",
+    "price": 40000
   },
   {
-    "CODIGO": 213,
-    "PRUEBA": "PARATOHORMONA (PTH) SUERO",
-    "PRECIO": 18800
+    "code": 213,
+    "test": "PARATOHORMONA (PTH) SUERO",
+    "price": 18800
   },
   {
-    "CODIGO": 177,
-    "PRUEBA": "PCR CUANTITATIVA",
-    "PRECIO": 10400
+    "code": 177,
+    "test": "PCR CUANTITATIVA",
+    "price": 10400
   },
   {
-    "CODIGO": 267,
-    "PRUEBA": "PCR-ULTRASENSIBLE",
-    "PRECIO": 18500
+    "code": 267,
+    "test": "PCR-ULTRASENSIBLE",
+    "price": 18500
   },
   {
-    "CODIGO": 215,
-    "PRUEBA": "PEPTIDO C AYUNAS",
-    "PRECIO": 23000
+    "code": 215,
+    "test": "PEPTIDO C AYUNAS",
+    "price": 23000
   },
   {
-    "CODIGO": 209,
-    "PRUEBA": "PERFIL DE LIPIDOS",
-    "PRECIO": 14100
+    "code": 209,
+    "test": "PERFIL DE LIPIDOS",
+    "price": 14100
   },
   {
-    "CODIGO": 6,
-    "PRUEBA": "PH EN HECES",
-    "PRECIO": 8000
+    "code": 6,
+    "test": "PH EN HECES",
+    "price": 8000
   },
   {
-    "CODIGO": 70,
-    "PRUEBA": "POTASIO",
-    "PRECIO": 8900
+    "code": 70,
+    "test": "POTASIO",
+    "price": 8900
   },
   {
-    "CODIGO": 160,
-    "PRUEBA": "POTASIO EN ORINA 24 HRS",
-    "PRECIO": 11000
+    "code": 160,
+    "test": "POTASIO EN ORINA 24 HRS",
+    "price": 11000
   },
   {
-    "CODIGO": 111,
-    "PRUEBA": "PROGESTERONA",
-    "PRECIO": 10400
+    "code": 111,
+    "test": "PROGESTERONA",
+    "price": 10400
   },
   {
-    "CODIGO": 108,
-    "PRUEBA": "PROLACTINA",
-    "PRECIO": 10400
+    "code": 108,
+    "test": "PROLACTINA",
+    "price": 10400
   },
   {
-    "CODIGO": 315,
-    "PRUEBA": "PROTEINAS S Y C -SD",
-    "PRECIO": 130000
+    "code": 315,
+    "test": "PROTEINAS S Y C -SD",
+    "price": 130000
   },
   {
-    "CODIGO": 67,
-    "PRUEBA": "PROTEINAS TOTALES",
-    "PRECIO": 10000
+    "code": 67,
+    "test": "PROTEINAS TOTALES",
+    "price": 10000
   },
   {
-    "CODIGO": 176,
-    "PRUEBA": "PROTEINAS TOTALES Y FRACCIONAD",
-    "PRECIO": 16700
+    "code": 176,
+    "test": "PROTEINAS TOTALES Y FRACCIONAD",
+    "price": 16700
   },
   {
-    "CODIGO": 262,
-    "PRUEBA": "PROTEINURIA AL AZAR",
-    "PRECIO": 12000
+    "code": 262,
+    "test": "PROTEINURIA AL AZAR",
+    "price": 12000
   },
   {
-    "CODIGO": 224,
-    "PRUEBA": "PROTEINURIA DE BENCE JONES",
-    "PRECIO": 15000
+    "code": 224,
+    "test": "PROTEINURIA DE BENCE JONES",
+    "price": 15000
   },
   {
-    "CODIGO": 118,
-    "PRUEBA": "PRUEBA EMBARAZO (SUERO)",
-    "PRECIO": 5300
+    "code": 118,
+    "test": "PRUEBA EMBARAZO (SUERO)",
+    "price": 5300
   },
   {
-    "CODIGO": 257,
-    "PRUEBA": "PSA LIBRE",
-    "PRECIO": 21000
+    "code": 257,
+    "test": "PSA LIBRE",
+    "price": 21000
   },
   {
-    "CODIGO": 226,
-    "PRUEBA": "PSA TOTAL",
-    "PRECIO": 9300
+    "code": 226,
+    "test": "PSA TOTAL",
+    "price": 9300
   },
   {
-    "CODIGO": 35,
-    "PRUEBA": "RETICULOCITOS",
-    "PRECIO": 5900
+    "code": 35,
+    "test": "RETICULOCITOS",
+    "price": 5900
   },
   {
-    "CODIGO": 174,
-    "PRUEBA": "ROTAVIRUS Y ADENOVIRUS",
-    "PRECIO": 26000
+    "code": 174,
+    "test": "ROTAVIRUS Y ADENOVIRUS",
+    "price": 26000
   },
   {
-    "CODIGO": 154,
-    "PRUEBA": "RUBEOLA IGG",
-    "PRECIO": 23000
+    "code": 154,
+    "test": "RUBEOLA IGG",
+    "price": 23000
   },
   {
-    "CODIGO": 243,
-    "PRUEBA": "RUBEOLA IGM",
-    "PRECIO": 23000
+    "code": 243,
+    "test": "RUBEOLA IGM",
+    "price": 23000
   },
   {
-    "CODIGO": 78,
-    "PRUEBA": "SGOT/AST",
-    "PRECIO": 12000
+    "code": 78,
+    "test": "SGOT/AST",
+    "price": 12000
   },
   {
-    "CODIGO": 79,
-    "PRUEBA": "SGPT/ALT",
-    "PRECIO": 12000
+    "code": 79,
+    "test": "SGPT/ALT",
+    "price": 12000
   },
   {
-    "CODIGO": 281,
-    "PRUEBA": "SHBG",
-    "PRECIO": 19500
+    "code": 281,
+    "test": "SHBG",
+    "price": 19500
   },
   {
-    "CODIGO": 69,
-    "PRUEBA": "SODIO",
-    "PRECIO": 8900
+    "code": 69,
+    "test": "SODIO",
+    "price": 8900
   },
   {
-    "CODIGO": 161,
-    "PRUEBA": "SODIO EN ORINA 24HRS",
-    "PRECIO": 11000
+    "code": 161,
+    "test": "SODIO EN ORINA 24HRS",
+    "price": 11000
   },
   {
-    "CODIGO": 297,
-    "PRUEBA": "SODIO ORINA AL AZAR",
-    "PRECIO": 11000
+    "code": 297,
+    "test": "SODIO ORINA AL AZAR",
+    "price": 11000
   },
   {
-    "CODIGO": 106,
-    "PRUEBA": "T3",
-    "PRECIO": 10400
+    "code": 106,
+    "test": "T3",
+    "price": 10400
   },
   {
-    "CODIGO": 288,
-    "PRUEBA": "T3 LIBRE",
-    "PRECIO": 10400
+    "code": 288,
+    "test": "T3 LIBRE",
+    "price": 10400
   },
   {
-    "CODIGO": 107,
-    "PRUEBA": "T4",
-    "PRECIO": 10400
+    "code": 107,
+    "test": "T4",
+    "price": 10400
   },
   {
-    "CODIGO": 152,
-    "PRUEBA": "T4 LIBRE",
-    "PRECIO": 10400
+    "code": 152,
+    "test": "T4 LIBRE",
+    "price": 10400
   },
   {
-    "CODIGO": 195,
-    "PRUEBA": "TESTOSTERONA LIBRE",
-    "PRECIO": 16900
+    "code": 195,
+    "test": "TESTOSTERONA LIBRE",
+    "price": 16900
   },
   {
-    "CODIGO": 112,
-    "PRUEBA": "TESTOSTERONA TOTAL",
-    "PRECIO": 10400
+    "code": 112,
+    "test": "TESTOSTERONA TOTAL",
+    "price": 10400
   },
   {
-    "CODIGO": 43,
-    "PRUEBA": "TIEMPO DE PROTROMBINA",
-    "PRECIO": 8400
+    "code": 43,
+    "test": "TIEMPO DE PROTROMBINA",
+    "price": 8400
   },
   {
-    "CODIGO": 44,
-    "PRUEBA": "TIEMPO DE TROMBOPLASTINA PARCI",
-    "PRECIO": 8400
+    "code": 44,
+    "test": "TIEMPO DE TROMBOPLASTINA PARCI",
+    "price": 8400
   },
   {
-    "CODIGO": 231,
-    "PRUEBA": "TINCION DE SEDIMENTO URINARIO",
-    "PRECIO": 12000
+    "code": 231,
+    "test": "TINCION DE SEDIMENTO URINARIO",
+    "price": 12000
   },
   {
-    "CODIGO": 222,
-    "PRUEBA": "TIROGLOBULINA",
-    "PRECIO": 23000
+    "code": 222,
+    "test": "TIROGLOBULINA",
+    "price": 23000
   },
   {
-    "CODIGO": 228,
-    "PRUEBA": "TOXOPLASMOSIS (IGG)",
-    "PRECIO": 19500
+    "code": 228,
+    "test": "TOXOPLASMOSIS (IGG)",
+    "price": 19500
   },
   {
-    "CODIGO": 229,
-    "PRUEBA": "TOXOPLASMOSIS (IGM)",
-    "PRECIO": 19500
+    "code": 229,
+    "test": "TOXOPLASMOSIS (IGM)",
+    "price": 19500
   },
   {
-    "CODIGO": 248,
-    "PRUEBA": "TRANSFERRINA",
-    "PRECIO": 14000
+    "code": 248,
+    "test": "TRANSFERRINA",
+    "price": 14000
   },
   {
-    "CODIGO": 214,
-    "PRUEBA": "TRIPSINA EN HECES",
-    "PRECIO": 8000
+    "code": 214,
+    "test": "TRIPSINA EN HECES",
+    "price": 8000
   },
   {
-    "CODIGO": 151,
-    "PRUEBA": "TSH",
-    "PRECIO": 10300
+    "code": 151,
+    "test": "TSH",
+    "price": 10300
   },
   {
-    "CODIGO": 238,
-    "PRUEBA": "UREA",
-    "PRECIO": 8000
+    "code": 238,
+    "test": "UREA",
+    "price": 8000
   },
   {
-    "CODIGO": 122,
-    "PRUEBA": "UROCULTIVO",
-    "PRECIO": 18000
+    "code": 122,
+    "test": "UROCULTIVO",
+    "price": 18000
   },
   {
-    "CODIGO": 39,
-    "PRUEBA": "V.E.S.",
-    "PRECIO": 8000
+    "code": 39,
+    "test": "V.E.S.",
+    "price": 8000
   },
   {
-    "CODIGO": 127,
-    "PRUEBA": "VDRL",
-    "PRECIO": 10000
+    "code": 127,
+    "test": "VDRL",
+    "price": 10000
   },
   {
-    "CODIGO": 204,
-    "PRUEBA": "VITAMINA B12",
-    "PRECIO": 13200
+    "code": 204,
+    "test": "VITAMINA B12",
+    "price": 13200
   },
   {
-    "CODIGO": 336,
-    "PRUEBA": "VITAMINA D TOTAL",
-    "PRECIO": 19000
+    "code": 336,
+    "test": "VITAMINA D TOTAL",
+    "price": 19000
   }
 ]
