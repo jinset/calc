@@ -35,8 +35,4 @@ export class LabListComponent {
     }
   }
 
-  
-
-
-
 }

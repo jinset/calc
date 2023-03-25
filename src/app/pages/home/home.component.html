@@ -1,0 +1,13 @@
+<div class="container">
+  <div class="home">
+    <div class="home__content ">
+      <ng-container *ngFor="let option of options">
+        <app-home-option
+          [imgURL]="option.img"
+          [title]="option.title"
+          [navegationURL]="option.navigationURL"
+        ></app-home-option>
+      </ng-container>
+    </div>
+  </div>
+</div>
