@@ -38,7 +38,8 @@ export class LabCalcComponent {
     })
   }
 
-  private sum() {
+  // calculate the price of all labs
+  private sum():void {
     this.total = 0;
     if (!this.labList.length) {
       this.total = 0;
